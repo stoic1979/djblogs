@@ -1,0 +1,2 @@
+# djblogs
+Django blogging project
